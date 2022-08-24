@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\bin\Debug\net6.0\NewConsoleApp.exe
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\bin\Debug\net6.0\NewConsoleApp.deps.json
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\bin\Debug\net6.0\NewConsoleApp.runtimeconfig.json
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\bin\Debug\net6.0\NewConsoleApp.dll
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\bin\Debug\net6.0\NewConsoleApp.pdb
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\NewConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\NewConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\NewConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\NewConsoleApp.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\NewConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\NewConsoleApp.dll
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\refint\NewConsoleApp.dll
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\NewConsoleApp.pdb
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\NewConsoleApp.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\Batch1-2022\C-sharp-Assignment\NewConsoleApp\NewConsoleApp\obj\Debug\net6.0\ref\NewConsoleApp.dll
