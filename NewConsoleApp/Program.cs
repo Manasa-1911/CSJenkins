@@ -23,6 +23,7 @@ namespace ConsoleAppDemo
             third = int.Parse(Console.ReadLine());
             int mulof3nos = multiply(first, second, third);
             Console.WriteLine($"The Multiplication of three nos are {mulof3nos}");
+            Console.WriteLine("Running Successfully");
         }
 
 
